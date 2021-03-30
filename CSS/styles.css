@@ -235,3 +235,75 @@ button {
 .contact-img {
   width: 10%;
 }
+
+@media (max-width:992px) {
+
+  .name {
+    font-size: 8rem;
+    letter-spacing: .6rem;
+  }
+  .Profession {
+    /* font-family: 'Playfair Display', serif; */
+    font-size: 3rem;
+    color: #0f3057;
+  }
+  .jobPeriod {
+    color: #008891;
+    font-size: 2rem;
+    padding-left: 5%;
+    text-align: center;
+  }
+  .job {
+    font-size: 2rem;
+    line-height: 4rem;
+    color: #0f3057;
+  }
+  .skill {
+    font-size: 2.5rem;
+    color: #0f3057;
+  }
+  .skillx {
+    font-size: 3rem;
+    color: #0f3057;
+  }
+  .awardpara1 {
+    font-size: 1.4rem;
+    color: #0f3057;
+  }
+
+  .awardpara2 {
+    font-style: italic;
+    font-size: 1.4rem;
+    color: #0f3057;
+  }
+  .carousel-text {
+    text-align: center;
+    color: #fff;
+    font-size: 1.6rem;
+    padding: 10px 200px 50px;
+  }
+
+  .bio{
+    font-size:2rem;
+  }
+
+  .accordion-body {
+      font-size:2rem;
+  }
+
+  #Experience {
+        font-size: 3rem;
+  }
+  #Skills {
+        font-size: 3rem;
+  }
+  #Press {
+        font-size: 3rem;
+  }
+  #Reviews {
+        font-size: 3rem;
+  }
+  #Contact {
+        font-size: 3rem;
+
+}
