@@ -1,0 +1,237 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #e7e7de;
+}
+
+section {
+  padding: 5%;
+}
+
+h1, h2, h3, h4, p {
+  text-align: left;
+}
+
+h1 {
+  font-family: 'Playfair Display', serif;
+}
+
+p {
+  line-height: 2rem;
+}
+
+/* navbar */
+.navbar {
+  background-color: #0f3057;
+}
+
+/* header */
+.section-header {
+  background-image: url("C:/Users/thijs/OneDrive/Bureaublad/Web development/Resume Thijs/Images/beach.jpg");
+  background-size: cover;
+}
+
+.header {
+  text-align: center;
+  margin: 50px 20px;
+}
+
+.name {
+  font-size: 4rem;
+  letter-spacing: .3rem;
+}
+
+.Profession {
+  /* font-family: 'Playfair Display', serif; */
+  font-size: 1.5rem;
+  color: #0f3057;
+}
+
+.profilepic {
+  width: 70%;
+  border-radius: 100%;
+}
+
+.flag {
+  width: 60%;
+}
+
+.dashedRule {
+  border: dashed 5px;
+  border-bottom: none;
+  width: 10%;
+  margin: auto;
+  background-color: #e7e7de;
+  border-color: #008891;
+}
+
+/* SECTION BIO */
+.section-bio {
+  background-color: #fff;
+}
+
+.bio {
+  text-align: left;
+  margin: 50px 20px;
+  color: #0f3057;
+}
+
+.rocket {
+  float: right;
+  width: 15%;
+}
+
+/* Experience & Skills */
+button {
+  /* height: 50px; */
+}
+
+.experience {
+  margin: 1%;
+}
+
+.section-skills {
+  background-color: #fff;
+}
+
+.skills {
+  margin: 1%;
+}
+
+.accordion {
+  /* margin: 50px 20px; */
+}
+
+.vzlogo {
+  width: 100%;
+}
+
+.jobPeriod {
+  color: #008891;
+  font-size: 1rem;
+  padding-left: 5%;
+  text-align: center;
+}
+
+.job {
+  font-size: 1rem;
+  line-height: 2rem;
+  color: #0f3057;
+}
+
+.accordion-button {
+  background-color: #e7e7de;
+}
+
+.accordion-item {
+  background-color: #e7e7de;
+  border: solid 1px #008891;
+}
+
+.accordion {
+  background-color: #e7e7de;
+  border: solid 1px #008891;
+  margin: 1px 0;
+}
+
+/* Skills */
+.skill {
+  font-size: 1.5rem;
+  color: #0f3057;
+}
+
+.webanalyticsimg {
+  width: 5%;
+  float: left;
+  margin-right: 2%;
+}
+
+.abtestimg {
+  width: 7.5%;
+  float: left;
+  margin-right: 2%;
+}
+
+.webdevimg {
+  width: 5%;
+  float: left;
+  margin-right: 2%;
+}
+
+.skillitem {
+  padding: 1%;
+}
+
+/* CARDS */
+.card {
+  background-color: #e7e7de;
+  text-align: center;
+}
+
+.card-img-top {
+  object-fit: cover;
+  height: 20vw;
+}
+
+.card-img-top-award {
+  object-fit: scale-down;
+  height: 20vw;
+}
+
+.awardpara1 {
+  font-size: .7rem;
+  color: #0f3057;
+}
+
+.awardpara2 {
+  font-style: italic;
+  font-size: .7rem;
+  color: #0f3057;
+}
+
+.btn-dark {
+  background-color: #0f3057;
+}
+
+.card:hover {
+  background-color: #fff;
+  text-align: center;
+}
+
+.cardrow {
+  text-align: center;
+  margin: 5% 10%;
+}
+
+/* TESTIMONIALS */
+.section-testimonials {
+  background-color: #0f3057;
+}
+
+.carousel-text {
+  text-align: center;
+  color: #fff;
+  font-size: .8rem;
+  padding: 10px 200px 50px;
+}
+
+.carousel-indicators {
+  padding-top: 100px;
+  ;
+}
+
+.reviews {
+  color: #fff;
+}
+
+/* CONTACT */
+.call {
+    text-align: center;
+}
+
+.contactitem {
+  text-align: center;
+}
+
+.contact-img {
+  width: 10%;
+}
